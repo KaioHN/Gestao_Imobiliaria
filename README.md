@@ -1,2 +1,2 @@
-# Gest-o_Imobili-ria
+# Gestao_Imobiliaria
 desenvolver um sistema para gestão da imobiliária da família.
